@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Table</title>
+
+<style>
+	table{
+			table-layout:auto; //values automatically set
+			border: 5px solid black;
+			border-collapse: collapse; //single lines in table
+	}
+	th,td{
+		border:1px solid black;	//inner lines
+	}
+	table.a {
+		table-layout: fixed;
+		width: 180px;    
+	}
+</style>
+</head>
+<body>
+<table class="table">
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Points</th>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Smith</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>94</td>
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Johnson</td>
+      <td>67</td>
+    </tr>
+  </table>
+ 
+
+ 
+  <h2>table-layout: fixed; width: 180px:</h2>
+	<table class="a">
+	  <tr>
+		<th>Company</th>
+		<th>Contact</th>
+		<th>Country</th>
+	  </tr>
+	  <tr>
+		<td>Alfreds Futterkiste</td>
+		<td>Maria Anders</td>
+		<td>Germany</td>
+	  </tr>
+	  <tr>
+		<td>Island Trading</td>
+		<td>Helen Bennett</td>
+		<td>UK</td>
+	  </tr>
+	  <tr>
+		<td>Magazzini Alimentari Riuniti</td>
+		<td>Giovanni Rovelli</td>
+		<td>Italy</td>
+	  </tr>
+	</table>
+
+ </body>
+</html>
