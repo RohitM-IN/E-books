@@ -1,0 +1,7 @@
+.mattblackmenu ul{font:normal 17px Verdana;list-style-type:none;background:#008AD0;overflow:hidden;float:right;margin:0;padding:0}
+.mattblackmenu li{display:inline;margin:0}
+.mattblackmenu li a div{padding-top:7px;font:13px Verdana}
+.mattblackmenu li a{float:left;display:block;text-decoration:none;border-right:1px solid white;color:white;background:#008AD0;height:55px;padding-top:16px;padding-left:9px;padding-right:9px;text-shadow:none;margin:0}
+.mattblackmenu li a:visited{color:white;background:#008AD0}
+.mattblackmenu li a:hover{background:#0079b5;color:#fff}
+.mattblackmenu li a.selected,.mattblackmenu li a.active{color:#55ffff;background:#008AD0}
