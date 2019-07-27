@@ -1,5 +1,5 @@
 
-A collection of E-books (total download size around 666 MB)
+A collection of E-books (total download size around 666 MB)(also if u are planning to download airline reservation system then download zip file instread)
 
 ### Algorithms and Data Structures:
 
