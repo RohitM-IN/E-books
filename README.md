@@ -196,3 +196,19 @@ A collection of E-books (total download size around 666 MB)
 
 - [JavaTheCompleteReference](https://github.com/RootAndroid58/E-books/blob/master/Java/JavaTheCompleteReference.pdf)
 
+### CEH
+- [a2z-of-cyber-crime](https://github.com/RootAndroid58/E-books/blob/master1/CEH/105994475-a2z-of-cyber-crime.pdf)
+- [7Deadliest Social Network Attacks](https://github.com/RootAndroid58/E-books/blob/master1/CEH/7Deadliest%20Social%20Network%20Attacks.pdf)
+- [7Deadliest Web Application](https://github.com/RootAndroid58/E-books/blob/master1/CEH/7Deadliest%20Web%20Application.pdf)
+- [CEH Study Guide](https://github.com/RootAndroid58/E-books/blob/master1/CEH/CEH%20Study%20Guide.pdf)
+- [Code_Review_Guide_Pre-AlphaV2](https://github.com/RootAndroid58/E-books/blob/master1/CEH/CEH%20Study%20Guide.pdf)
+- [Ethical.Hacking.and.Countermeasures.Web.Applications.and.Data.Servers](https://github.com/RootAndroid58/E-books/blob/master1/CEH/CEH%20Study%20Guide.pdf)
+- [Hacking Exposed Web Applications 3_E - Joel Scambray - McGraw-Hill Osborne Media - 2011plus](https://github.com/RootAndroid58/E-books/blob/master1/CEH/Hacking%20Exposed%20Web%20Applications%203_E%20-%20Joel%20Scambray%20-%20McGraw-Hill%20Osborne%20Media%20-%202011plus.pdf)
+- [Hacking Exposed. Malware and Rootkits (McGraw-Hill, 2010)](https://github.com/RootAndroid58/E-books/blob/master1/CEH/Hacking%20Exposed.%20Malware%20and%20Rootkits%20(McGraw-Hill%2C%202010).pdf)
+- [Kali Linux Cookbook](https://github.com/RootAndroid58/E-books/blob/master1/CEH/Kali%20Linux%20Cookbook.pdf)
+- [Web Penetration Testing with Kali Linux](https://github.com/RootAndroid58/E-books/blob/master1/CEH/Web%20Penetration%20Testing%20with%20Kali%20Linux.pdf)
+- [cyber crime](https://github.com/RootAndroid58/E-books/blob/master1/CEH/cyber%20crime.pdf)
+- [digital signature](https://github.com/RootAndroid58/E-books/blob/master1/CEH/digital%20signature.pdf)
+- [evolution_of_cybercrime](https://github.com/RootAndroid58/E-books/blob/master1/CEH/evolution_of_cybercrime.pdf)
+- [wifi_crack](https://github.com/RootAndroid58/E-books/blob/master1/CEH/wifi_crack.pdf)
+
