@@ -1,5 +1,5 @@
 Check out the Page For Better Understanding https://rootandroid58.github.io/E-books/
-A collection of E-books (total download size around 924 MB)
+A collection of E-books (total download size around 924 MB+)
 
 ### Algorithms and Data Structures:
 
