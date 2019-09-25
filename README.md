@@ -360,4 +360,18 @@ A collection of E-books (total download size around 924 MB)
 
 - [The Web Application Hacker's Handbook Finding and Exploiting Security Flaws Kindle Edition by Dafydd Stuttard - 2011](https://github.com/RootAndroid58/E-books/blob/master1/Web%20Development/%5BThe%20Web%20Application%20Hacker's%20Handbook%20Finding%20and%20Exploiting%20Security%20Flaws%20Kindle%20Edition%20by%20Dafydd%20Stuttard%20-%202011%5D.pdf)
 
-total download size around 924 MB
+### NEW UPDATES:
+
+### C++ Programming 
+
+- [C++in a Nutshell (Ray Licbner)](https://github.com/RootAndroid58/E-books/blob/master1/C%20%2B%2B%20notes/C%2B%2Bin%20a%20Nutshell%20(Ray%20Licbner).pdf)
+
+- [Cpp Cheat Sheet](https://github.com/RootAndroid58/E-books/blob/master1/C%20%2B%2B%20notes/Cpp%20Cheat%20Sheet.pdf)
+
+### C Programming 
+
+- [Cheatsheet- C Programming](https://github.com/RootAndroid58/E-books/blob/master1/c%20notes/Cheatsheet-%20C%20Programming.pdf)
+
+- [C Teach Yourself in 21 Days (Bradley & Peter)](https://github.com/RootAndroid58/E-books/blob/master1/c%20notes/C%20Teach%20Yourself%20in%2021%20Days%20(Bradley%20%26%20Peter).pdf)
+
+total download size around 924 MB +
