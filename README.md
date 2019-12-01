@@ -190,6 +190,7 @@ A collection of E-books (total download size around 924 MB+)
 
 ### C Language
 - [C complete](https://github.com/RootAndroid58/E-books/blob/master/c%20notes/C-Notes(pdf).pdf)
+
 ### css 
 - [C ++ complete](https://github.com/RootAndroid58/E-books/blob/master/css/duckett.pdf)
 
@@ -197,11 +198,20 @@ A collection of E-books (total download size around 924 MB+)
 
 - [JavaTheCompleteReference](https://github.com/RootAndroid58/E-books/blob/master/Java/JavaTheCompleteReference.pdf)
 
+- [and many more click me to see folder](https://github.com/RootAndroid58/E-books/tree/master1/Java)
+
 ### JavaScript
 
 - [Mastering JavaScript High Performance](https://github.com/RootAndroid58/E-books/blob/master1/JavaScript/Mastering%20JavaScript%20High%20Performance%20%5BeBook%5D.pdf)
 
 - [THINKING_IN_JAVASCRIPT](https://github.com/RootAndroid58/E-books/blob/master1/JavaScript/THINKING_IN_JAVASCRIPT.pdf)
+
+### Java Porject 
+
+- [Airlines Reservation System Java Project.rar](https://github.com/RootAndroid58/E-books/blob/master1/Java%20Project/Airlines%20Reservation%20System%20Java%20Project.rar)
+- [Calculator JAVA Project.rar](https://github.com/RootAndroid58/E-books/blob/master1/Java%20Project/Calculator%20JAVA%20Project.rar)
+- [Student Management System JAVA.rar](https://github.com/RootAndroid58/E-books/blob/master1/Java%20Project/Student%20Management%20System%20JAVA.rar)
+- [library management system.rar](https://github.com/RootAndroid58/E-books/blob/master1/Java%20Project/library%20management%20system.rar)
 
 ### Linux
 
@@ -287,6 +297,8 @@ A collection of E-books (total download size around 924 MB+)
 
 - [What You Need to Know about Python ](https://github.com/RootAndroid58/E-books/blob/master1/Python/What%20You%20Need%20to%20Know%20about%20Python%20%5BeBook%5D.pdf)
 
+- [and many more uploaded check the folder](https://github.com/RootAndroid58/E-books/tree/master1/Python)
+
 ### R language
 
 - [R_DEEP_LEARNING_ESSENTIALS](https://github.com/RootAndroid58/E-books/blob/master1/R/R_DEEP_LEARNING_ESSENTIALS.pdf)
@@ -327,7 +339,7 @@ A collection of E-books (total download size around 924 MB+)
 
 - [mysql_tutorial](https://github.com/RootAndroid58/E-books/blob/master1/SQL/mysql_tutorial.pdf)
 
-###
+### Web Development
 
 - [ANGULARJS_WEB_APPLICATION_DEVELOPMENT_COOKBOOK](https://github.com/RootAndroid58/E-books/blob/master1/Web%20Development/ANGULARJS_WEB_APPLICATION_DEVELOPMENT_COOKBOOK.pdf)
 
@@ -369,11 +381,15 @@ A collection of E-books (total download size around 924 MB+)
 
 - [Cpp Cheat Sheet](https://github.com/RootAndroid58/E-books/blob/master1/C%20%2B%2B%20notes/Cpp%20Cheat%20Sheet.pdf)
 
+- [and many more click me to go to the folder](https://github.com/RootAndroid58/E-books/tree/master1/C%20%2B%2B%20notes)
+
 ### C Programming 
 
 - [Cheatsheet- C Programming](https://github.com/RootAndroid58/E-books/blob/master1/c%20notes/Cheatsheet-%20C%20Programming.pdf)
 
 - [C Teach Yourself in 21 Days (Bradley & Peter)](https://github.com/RootAndroid58/E-books/blob/master1/c%20notes/C%20Teach%20Yourself%20in%2021%20Days%20(Bradley%20%26%20Peter).pdf)
+
+- [and many more click me to see folder](https://github.com/RootAndroid58/E-books/tree/master1/c%20notes)
 
  
 ### C language
@@ -403,4 +419,14 @@ A collection of E-books (total download size around 924 MB+)
 - [evolution_of_cybercrime](https://github.com/RootAndroid58/E-books/blob/master1/CEH/evolution_of_cybercrime.pdf)
 - [wifi_crack](https://github.com/RootAndroid58/E-books/blob/master1/CEH/wifi_crack.pdf)
 
+### HTML
+
+- [HTML5 Notes for professionals](https://github.com/RootAndroid58/E-books/blob/master1/HTML/HTML5%20Notes%20for%20professionals.pdf)
+- [HTML5 Programming Cookbook by Web Code Geeks](https://github.com/RootAndroid58/E-books/blob/master1/HTML/HTML5%20Programming%20Cookbook%20by%20Web%20Code%20Geeks.pdf)
+- [HTML5 iPhone Web Application Development--Free 41 Page Excerpt](https://github.com/RootAndroid58/E-books/blob/master1/HTML/HTML5%20iPhone%20Web%20Application%20Development--Free%2041%20Page%20Excerpt.pdf)
+
 total download size around 940 MB +
+
+### Contributers : 
+- [MRDGH2821](https://github.com/MRDGH2821)
+- and me ofcourse 
