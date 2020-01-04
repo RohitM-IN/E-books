@@ -9,6 +9,10 @@ A collection of E-books (total download size around 924 MB+)
 
 - [Landing Your Next Job, Third Edition - Secrets to Landing Your Next Job](https://github.com/RootAndroid58/E-books/blob/master/Algorithms/Landing%20Your%20Next%20Job%2C%20Third%20Edition%20-%20Secrets%20to%20Landing%20Your%20Next%20Job%5D.pdf)
 
+### Ethical Hacking 
+
+- 141+ books check the folder yourself 
+
 ### GitHub
 
 - [GitHub Essentials](https://github.com/RootAndroid58/E-books/blob/master/GitHub/GitHub%20Essentials%20%5BeBook%5D.pdf)
