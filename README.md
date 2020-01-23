@@ -231,6 +231,7 @@ A collection of E-books (total download size around 924 MB+)
 - [mind-hacking](https://github.com/RootAndroid58/E-books/blob/master1/Miscellaneous/mind-hacking.pdf)
 
 ### Miscellaneous 2
+- 9 more books added
 
 - [A Practical Model for Conducting cyber Threat Hunting [Dan Gunter]](https://github.com/RootAndroid58/E-books/blob/master1/Miscellaneous%202/A%20Practical%20Model%20for%20Conducting%20cyber%20Threat%20Hunting%20%5BDan%20Gunter%5D.pdf)
 
