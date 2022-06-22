@@ -1,0 +1,1 @@
+- [C_6_AND_NET_CORE_10_MODERN_CROSSPLATFORM_DEVELOPMENT.pdf](https://mega.nz/file/U18iibDK#RM0pj30DCSAKcgn-sn-out-3HkCqGbMRtFT3CnrAD-s)
